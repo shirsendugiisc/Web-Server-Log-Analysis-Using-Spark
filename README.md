@@ -15,3 +15,7 @@ Though there are several techniques in the 5G architecture it self to address th
 **Dataset**
 
 We have captured the HTTP based req/response for some of the vital network functions in 5G network. Mostly from different span. Also we have a dataset which contains the suspicious attacks that have been detected at the as per the behavior of that particular device or channel. So, with these dataset we will try to analyze the impact on each network function and segregate different kind of attacks. Also we will manifest the behavior of each network function during these attacks.
+Source for Attack dataset:
+https://www.kaggle.com/datasets/agungpambudi/network-malware-detection-connection-analysis/data
+Source for Server behaviour dataset is a synthitic dataset generated with inspiration from actual 5G server logs but without any personal user data.
+
